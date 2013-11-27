@@ -1,0 +1,4 @@
+/.gradle
+/build
+/grailsDB.h2.db
+/grailsDB.trace.db
