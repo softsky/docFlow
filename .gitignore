@@ -1,3 +1,5 @@
+/.emacs.desktop
+/.emacs.desktop.lock
 /.gradle
 /build
 /grailsDB.h2.db

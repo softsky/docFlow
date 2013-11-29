@@ -50,7 +50,7 @@ class Application {
 
     // Dummy user objects to persist
     def persons = [
-      new Person("firstName":"Archer", "lastName":"Zoundi"),
+      new Person("firstName":"Arsen", "lastName":"Gutsal"),
       new Person("firstName":"Rimero", "lastName":"Solutions")
     ]
 
